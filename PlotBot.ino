@@ -65,7 +65,10 @@ return;
 #endif
  */ 
  
-  plotText(" base48 ", 15);
+ // plotText("roses are red  \nviolets are blue     plotbot beeps:\n my favorite \n variable is you.\n", 15);
+
+//  plotText("wygladasz ladnie!     \n",13);
+plotText("DEVCONF \n \n June 18-19, 2026   BASE48 hackerspace ",15);
  
 //Serial.print(digitalRead(SWITCH_F) ? "[F]" : " f ");
 //Serial.println(digitalRead(SWITCH_B) ? "[B]" : " b ");

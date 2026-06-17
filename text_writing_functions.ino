@@ -7,6 +7,9 @@ void plotText(String str, int scale) {
     if (byte(c) != 195) {
       if (c == ' ') {
         move(scale);
+      } else if (c == '\n') {
+        // move formward until the edge is reached, then o back and sligtly down
+        move(100);
       } else {
         plotChar(c, scale);
       }

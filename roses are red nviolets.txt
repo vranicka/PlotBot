@@ -1,0 +1,15 @@
+roses are red   \nviolets are blue   plotbot beeps: \nmy favorite        \n\nvariable is you.   
+
+roses are red
+      violets are blue
+    plotbotbeeps:
+     my favorite
+          variable is you.
+
+
+  plotText("roses are red \nviolets are blue\nplotbot beeps:\nmy favorite        \nvariable is you.   ", 15);
+	    roses are red   \nviolets are blue   plotbot beeps: \nmy favorite        \n\nvariable is you.
+	    roses are red  \nviolets are blue     plotbot beeps:\n  my favorite \n\n variable is you.\n
+	    
+	    
+wygladasz ladnie!

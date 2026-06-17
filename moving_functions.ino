@@ -32,10 +32,10 @@ void bounce() {
     move(10);
     delay(20);
     turn(90, -1);      
-    move(20);
+    move(40);
     delay(20);
     turn(90, 1); 
-    move(420);        //move until new bumper check, 
+    move(390);        //move until new bumper check, 
     turn (180);
 //    newLineStarted = false;
 //    newLineFinished = true;
